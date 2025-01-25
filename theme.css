@@ -1,3 +1,8 @@
+html {
+    font-family: sans-serif;
+}
+
+
 .title {
     text-decoration: none;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -43,4 +48,10 @@ li a:hover {
 
 p {
     font-family: monospace;
+}
+
+.cat {
+    width: 50%;
+    height: 50%;
+    border-radius: 10%;
 }
