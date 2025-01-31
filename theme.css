@@ -76,3 +76,7 @@ p {
 }
 
 /* dark mode */
+
+.content {
+    padding-left: 30px;
+}
