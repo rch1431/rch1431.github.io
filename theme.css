@@ -80,3 +80,9 @@ p {
 .content {
     padding-left: 30px;
 }
+
+/*music stuff*/
+
+.cover {
+    width: 25%;
+}
